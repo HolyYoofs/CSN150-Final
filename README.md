@@ -24,7 +24,7 @@ To inform others on how dangerous it is to randomly open links even from the one
 [Link 2](https://www.youtube.com/watch?v=LYmhwKVNjk4&pp=ygUeaG93IHRvIGZpeCBuZ3JvayBpbiBrYWxpIGxpbnV4)
 
 
-![Storm](CSN150-Final/Storm.png)
+![Storm](main/Storm.png)
 
 ## Steps I Followed
 *Download the Kali Linux
