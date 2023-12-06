@@ -13,18 +13,18 @@ To inform others on how dangerous it is to randomly open links even from the one
 * git
 * Ngrok
 
-##Equipment
+## Equipment
 [Linux 2022](https://www.kali.org/get-kali/#kali-virtual-machines)
 
-##Link for the Document
+## Link for the Document
 [StormBreaker](https://github.com/ultrasecurity/Storm-Breaker)
 
-##Videos That Helped
+## Videos That Helped
 [Link 1](https://www.youtube.com/watch?v=UkoPCbp_vBk&ab_channel=SathvikTechtuber)
 [Link 2](https://www.youtube.com/watch?v=LYmhwKVNjk4&pp=ygUeaG93IHRvIGZpeCBuZ3JvayBpbiBrYWxpIGxpbnV4)
 
 
-##Steps I Followed
+## Steps I Followed
 *Download the Kali Linux
 *Open the Terminal
 * Enter command in Kali Linux and get storm breaker running 
