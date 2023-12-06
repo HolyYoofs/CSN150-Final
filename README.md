@@ -45,6 +45,6 @@ To inform others on how dangerous it is to randomly open links even from the one
 
 
 ## Issues
-I had a hard time getting the links to open on my computer Because of an [anti-virus protection software] I had equipped(https://www.malwarebytes.com/)
-[MalwareBytes](/Malware.png)
+I had a hard time getting the links to open on my computer Because of an [anti-virus protection software](https://www.malwarebytes.com/) I had equipped 
+![MalwareBytes](/Malware.png)
 
