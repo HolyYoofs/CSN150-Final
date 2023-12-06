@@ -38,4 +38,6 @@ To inform others on how dangerous it is to randomly open links even from the one
   * bash install.sh
   * pyhton3 st.py (runs the storms breaker program)
   * split the terminal by right-clicking and selecting split terminal
+ 
+![Breaker](/Breaker.ping)
 
